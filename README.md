@@ -4,6 +4,6 @@
 
 this repo is for the course 'intro to bioinfomatics' only.
 
-Here is our [textbook](https://book.ncrnalab.org/teaching/)
+Here is our [textbook](https://book.ncrnalab.org/teaching/) .
 
 I will upload all the codes later.
